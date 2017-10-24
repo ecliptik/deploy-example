@@ -1,4 +1,4 @@
 Gemfile.lock
-package-json.lock
+package-lock.json
 node_modules
 *.swp
