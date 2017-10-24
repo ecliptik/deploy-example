@@ -10,27 +10,27 @@ The following tasks will guage an applicants ability to understand the applicati
 - Make changes, add files, and push to your fork to complete the following tasks
 - When completed, create a Pull Request with all updates and include any additional comments
 
-## Task 1
+### Task 1
 
 Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use the web application.
 
-## Task 2
+### Task 2
 
 Run the app locally within a [Docker](https://docs.docker.com/engine/) container
 
-## Task 3
+### Task 3
 
 Run the app using [docker-compose](https://docs.docker.com/compose/) with [nginx](https://docs.docker.com/compose/) as a reverse proxy to the application.
 
-## Task 4
+### Task 4
 
 Setup [TravisCI](https://travis-ci.org), [CircleCI](https://circleci.com), or other automated continous integration to build a container and test on push to Github repository.
 
-## Task 5
+### Task 5
 
 Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kubernetes.io) or other container [orchestration and management framework](https://github.com/cncf/landscape)
 
-## Bonus
+### Bonus
 
 Additional tasks to further show mastery of application deployments and understanding.
 
