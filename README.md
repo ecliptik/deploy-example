@@ -1,8 +1,13 @@
 # deploy-example
 
-This repository contains a simple [Ruby](https://www.ruby-lang.org) application. All configuration to run the app is included.
+This repository contains a simple web application that does the same thing in the following languages,
+
+- [Ruby](https://www.ruby-lang.org)
+- [NodeJS](https://nodejs.org/en/)
 
 The following tasks will gauge an applicants ability to understand the application and how to run and deploy it in containerized environments. It is understood that there are multiple ways to achieve these tasks and there is no one-size-fits all approach.
+
+Any language, including the examples, may be used.
 
 ## How to Use This Repository
 
@@ -14,23 +19,15 @@ The following tasks will gauge an applicants ability to understand the applicati
 
 ### Task 1
 
-Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com), [Rack](http://rack.github.io) or [Rails](http://rubyonrails.org) and demonstrate how to use the web application.
+Run the app locally using and demonstrate how to use the web application.
 
 ### Task 2
 
-Run the app locally within a [Docker](https://docs.docker.com/engine/) container.
+Run the app locally within a [Docker](https://docs.docker.com/engine/) or other container engine.
 
 ### Task 3
 
-Run the app using [docker-compose](https://docs.docker.com/compose/) with [nginx](https://docs.docker.com/compose/) as a reverse proxy to the application.
-
-### Task 4
-
-Setup [TravisCI](https://travis-ci.org), [CircleCI](https://circleci.com), or other automated continous integration to build a container and test on push to Github repository.
-
-### Task 5
-
-Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kubernetes.io) or other container [orchestration and management framework](https://github.com/cncf/landscape).
+Run the app using [docker-compose](https://docs.docker.com/compose/), or other container deployment framework, with [nginx](https://docs.docker.com/compose/) or other web server as a reverse proxy to the application.
 
 ### Bonus
 
@@ -38,5 +35,5 @@ Additional tasks to further show mastery of application deployments and understa
 
 - Add an additional route to the application to return full list of gifs
 - Minimize container image
-- Run application on platform other than x86
-- Rewrite application in another language
+- Setup [TravisCI](https://travis-ci.org), [CircleCI](https://circleci.com), or other automated continous integration to automatically build and deploy
+- Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kubernetes.io) or other container [orchestration and management framework](https://github.com/cncf/landscape).
