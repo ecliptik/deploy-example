@@ -1,12 +1,12 @@
 # deploy-example
 
-This repository contains a simple [Ruby](https://www.ruby-lang.org) application that displays random gifs from an array. All configuration to run a basic app is included.
+This repository contains a simple [Ruby](https://www.ruby-lang.org) application All configuration to run a basic app is included.
 
-The following task will guage an applicants ability to understand the application, how to run it locally and in a deployment environment.
+The following tasks will guage an applicants ability to understand the application and how to run it in containerized environments.
 
 ## Task 1
 
-Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io).
+Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use web application.
 
 ## Task 2
 
