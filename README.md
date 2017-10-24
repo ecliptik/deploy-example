@@ -14,7 +14,7 @@ The following tasks will gauge an applicants ability to understand the applicati
 
 ### Task 1
 
-Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use the web application.
+Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com), [Rack](http://rack.github.io) or [Rails](http://rubyonrails.org) and demonstrate how to use the web application.
 
 ### Task 2
 
