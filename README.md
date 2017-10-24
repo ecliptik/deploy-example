@@ -2,8 +2,9 @@
 
 This repository contains a simple web application that does the same thing in the following languages,
 
-- [Ruby](https://www.ruby-lang.org)
 - [NodeJS](https://nodejs.org/en/)
+- [Python](https://www.python.org/)
+- [Ruby](https://www.ruby-lang.org)
 
 The following tasks will gauge an applicants ability to understand the application and how to run and deploy it in containerized environments. It is understood that there are multiple ways to achieve these tasks and there is no one-size-fits all approach.
 
