@@ -15,13 +15,67 @@ The following tasks will guage an applicants ability to understand the applicati
 
 Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use the web application.
 
+- Install dependencies
+
+```
+bundle install
+```
+
+- Run app
+```
+bundle exec rackup -o 0.0.0.0
+```
+
+- Test
+
+```
+curl http://localhost:9292/gif
+```
+
 ### Task 2
 
 Run the app locally within a [Docker](https://docs.docker.com/engine/) container.
 
+- Create `Dockerfile`
+- Build container
+
+```
+docker build -t deploy-example .
+```
+
+- Run container
+
+```
+docker run -it --rm -p 9292:9292 deploy-example
+```
+
+- Test
+
+```
+curl http://localhost:9292/gif
+```
+
 ### Task 3
 
 Run the app using [docker-compose](https://docs.docker.com/compose/) with [nginx](https://docs.docker.com/compose/) as a reverse proxy to the application.
+
+- create `docker-compose.yml`
+  - include app container and nginx container
+  - must not expose app container directly, should pass everything through nginx
+- create nginx config
+  - can have multiple ways of setting up nginx config (bind mount, re-built container)
+
+- Run stack
+
+```
+docker-compose up
+```
+
+- test
+
+```
+curl http://locahost:8080/gif
+```
 
 ### Task 4
 
