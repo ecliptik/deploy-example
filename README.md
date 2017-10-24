@@ -2,12 +2,13 @@
 
 This repository contains a simple [Ruby](https://www.ruby-lang.org) application. All configuration to run the app is included.
 
-The following tasks will guage an applicants ability to understand the application and how to run and deploy it in containerized environments.
+The following tasks will guage an applicants ability to understand the application and how to run and deploy it in containerized environments. It is understood that there are multiple ways to achieve these tasks.
 
 ## How to Use This Repository
 
 - Fork this repository into your Github profile
 - Make changes, add files, and push to your fork to complete the following tasks
+  - Include command examples in-line in this README under each task.
 - When completed, create a Pull Request with all updates and include any additional comments
 
 ### Task 1
