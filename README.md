@@ -2,7 +2,7 @@
 
 This repository contains a simple [Ruby](https://www.ruby-lang.org) application. All configuration to run the app is included.
 
-The following tasks will guage an applicants ability to understand the application and how to run and deploy it in containerized environments. It is understood that there are multiple ways to achieve these tasks and there is no one-size-fits all approach.
+The following tasks will gauge an applicants ability to understand the application and how to run and deploy it in containerized environments. It is understood that there are multiple ways to achieve these tasks and there is no one-size-fits all approach.
 
 ## How to Use This Repository
 
