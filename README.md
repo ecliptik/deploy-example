@@ -4,13 +4,19 @@ This repository contains a simple [Ruby](https://www.ruby-lang.org) application.
 
 The following tasks will guage an applicants ability to understand the application and how to run and deploy it in containerized environments.
 
+## How to Use This Repository
+
+- Fork this repository into your Github profile
+- Make changes, add files, and push to your fork to complete the following tasks
+- When completed, create a Pull Request with all updates and include any additional comments
+
 ## Task 1
 
-Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use web application.
+Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www.sinatrarb.com) and [Rack](http://rack.github.io) and demonstrate how to use the web application.
 
 ## Task 2
 
-Run the app within a [Docker](https://docs.docker.com/engine/) container locally.
+Run the app locally within a [Docker](https://docs.docker.com/engine/) container
 
 ## Task 3
 
