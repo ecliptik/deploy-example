@@ -1,8 +1,8 @@
 # deploy-example
 
-This repository contains a simple [Ruby](https://www.ruby-lang.org) application All configuration to run a basic app is included.
+This repository contains a simple [Ruby](https://www.ruby-lang.org) application. All configuration to run the app is included.
 
-The following tasks will guage an applicants ability to understand the application and how to run it in containerized environments.
+The following tasks will guage an applicants ability to understand the application and how to run and deploy it in containerized environments.
 
 ## Task 1
 
