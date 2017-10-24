@@ -16,7 +16,7 @@ Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www
 
 ### Task 2
 
-Run the app locally within a [Docker](https://docs.docker.com/engine/) container
+Run the app locally within a [Docker](https://docs.docker.com/engine/) container.
 
 ### Task 3
 
@@ -28,7 +28,7 @@ Setup [TravisCI](https://travis-ci.org), [CircleCI](https://circleci.com), or ot
 
 ### Task 5
 
-Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kubernetes.io) or other container [orchestration and management framework](https://github.com/cncf/landscape)
+Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kubernetes.io) or other container [orchestration and management framework](https://github.com/cncf/landscape).
 
 ### Bonus
 
