@@ -1,6 +1,6 @@
 # deploy-example
 
-This repository contains a simple [Ruby]((https://www.ruby-lang.org) application that displays random gifs from an array. All configuration to run a basic app is included.
+This repository contains a simple [Ruby](https://www.ruby-lang.org) application that displays random gifs from an array. All configuration to run a basic app is included.
 
 The following task will guage an applicants ability to understand the application, how to run it locally and in a deployment environment.
 
@@ -10,7 +10,7 @@ Run the [Ruby](https://www.ruby-lang.org) app locally using [Sinatra](http://www
 
 ## Task 2
 
-Run the app within a [Docker](https://docs.docker.com/engine/) container locally
+Run the app within a [Docker](https://docs.docker.com/engine/) container locally.
 
 ## Task 3
 
@@ -28,7 +28,7 @@ Add deployment files for [Rancher](http://rancher.com), [Kubernetes](https://kub
 
 Additional tasks to further show mastery of application deployments and understanding.
 
-- Add an additional route to the application
+- Add an additional route to the application to return full list of gifs
 - Minimize container image
 - Run application on platform other than x86
 - Rewrite application in another language
