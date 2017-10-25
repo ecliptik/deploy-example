@@ -25,7 +25,7 @@ Run the app locally using and demonstrate how to use the web application.
 
 ### Task 2
 
-Run the app locally within a [Docker](https://docs.docker.com/engine/) or other container engine.
+Run the app locally within [Docker](https://docs.docker.com/engine/) or other container engine.
 
 ### Task 3
 
