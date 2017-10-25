@@ -2,6 +2,7 @@
 
 This repository contains a simple web application that does the same thing in the following languages,
 
+- [Golang](https://golang.org/)
 - [NodeJS](https://nodejs.org/en/)
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org)
